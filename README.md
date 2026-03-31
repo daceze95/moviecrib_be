@@ -1,2 +1,2 @@
-# moviecrib_be
+# Moviecrib API
 All about movie
